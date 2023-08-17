@@ -1,0 +1,18 @@
+/* Basic styles for the chat container */
+.chat-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #4d1313;
+    border-radius: 10px;
+    background-color: #20205d;
+}
+
+/* Styling for the response area */
+.response-area {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #2e6858;
+    border: 1px solid #6e714d;
+    border-radius: 5px;
+}
